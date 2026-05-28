@@ -83,6 +83,10 @@ These retained items cannot be used to identify you personally.
 
 For privacy-related questions or concerns:
 
-**Teo Studios**
-Email: teovox4@gmail.com
-Privacy Policy: [Read our Privacy Policy](https://te
+**Teo Studios**  
+Email: teovox4@gmail.com  
+Privacy Policy: [Read our Privacy Policy](https://teovox4-beep.github.io/echo-words-privacy/privacy_policy_echo_words.html)
+
+---
+
+*This page was last updated on May 28, 2026.*
