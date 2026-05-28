@@ -29,11 +29,11 @@ By using Echo Words, you agree to the terms of this Privacy Policy.
 
 ---
 
-## 3. How We Use Your Information
+#### 3. How We Use Your Information
 
 We use collected information to:
 - Save and sync your game progress across sessions
-- Provide daily challenges and streak tracking
+- Provide daily challenges and streak trackin
 - Improve app performance and fix bugs
 - Send app updates via Firebase Remote Config
 
@@ -41,8 +41,9 @@ We use collected information to:
 
 ## 4. Third-Party Services
 
-Echo Words uses the following third-party services:
+## 4. Third-Party Services
 
+Echo Words uses the following third-party services:
 | Service | Purpose | Privacy Policy |
 |---|---|---|
 | Firebase (Google) | Authentication, Database, Analytics | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) |
@@ -110,6 +111,18 @@ For privacy-related questions or requests:
 Email: teovox4@gmail.com  
 App: Echo Words  
 
+
+Account Deletion
+     
+     You can delete your account and all associated data:
+     
+     **In-app:** Go to Settings → Delete Account & Data
+     
+     **By email:** Send a request to teovox4@gmail.com 
+     with subject "Delete Echo Words Account" including 
+     your anonymous user ID (visible in Settings → About).
+     
+     Account deletion is permanent and irreversible.
 ---
 
-*This Privacy Policy was last updated on May 22, 2026.*
+*This Privacy Policy was last updated on May 28, 2026.*
